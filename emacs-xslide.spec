@@ -11,6 +11,7 @@ License: GPL
 Source: http://www.menteith.com/xslide/data/xslide-%{version}.tar.bz2
 URL:	http://www.menteith.com/xslide/index.html
 Group: Publishing
+BuildRoot: %{_tmppath}/%{name}-%{version}-root
 BuildArch: noarch
 %define xslidedir /%{_prefix}/share/emacs/site-lisp/xslide/
 
