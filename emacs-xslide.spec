@@ -2,7 +2,7 @@ Summary: A GNU Emacs major mode for editing XSL documents
 name: emacs-xslide
 %define version 0.2.2
 Version: %{version}
-Release: %mkrel 5
+Release: %mkrel 7
 BuildRequires: emacs-bin
 Requires: emacs
 Obsoletes: xslide
