@@ -9,7 +9,7 @@ Obsoletes: xslide
 Provides: xslide
 License: GPL
 Source: http://www.menteith.com/xslide/data/xslide-%{version}.tar.bz2
-URL:	http://www.menteith.com/xslide/index.html
+URL:	https://www.menteith.com/xslide/index.html
 Group: Publishing
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 BuildArch: noarch
